@@ -1,4 +1,4 @@
-# Phaser 3 Ball Pop
+# Phaser 3 The Rounds
 
 <p float="left">
 <img src='https://img.shields.io/badge/Version-0.8.5-brightgreen'  alt="Version: 0.8.5"/>
@@ -6,6 +6,9 @@
 <img src='https://img.shields.io/badge/Contribution-Open-brightgreen'  alt="Contribution: Open"/>
 <img src='https://img.shields.io/badge/Phaser-3.24.1-blue'  alt="Phaser: 3.24.1"/>
 </p>
+
+## Playable Link
+https://reydvires.itch.io/the-rounds
 
 ## Quickstart
 
