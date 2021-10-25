@@ -1,14 +1,15 @@
-# Phaser 3 The Rounds
+# The Rounds Game
 
 <p float="left">
-<img src='https://img.shields.io/badge/Version-0.8.5-brightgreen'  alt="Version: 0.8.5"/>
-<img src='https://img.shields.io/badge/Status-Maintained-brightgreen'  alt="Status: Maintained"/>
+<img src='https://img.shields.io/badge/Version-1.8.4-brightgreen'  alt="Version"/>
+<img src='https://img.shields.io/badge/Status-Released-blue'  alt="Status: Released"/>
 <img src='https://img.shields.io/badge/Contribution-Open-brightgreen'  alt="Contribution: Open"/>
 <img src='https://img.shields.io/badge/Phaser-3.24.1-blue'  alt="Phaser: 3.24.1"/>
 </p>
 
 ## Playable Link
-https://reydvires.itch.io/the-rounds
+
+<https://reydvires.itch.io/the-rounds>
 
 ## Quickstart
 
@@ -32,4 +33,3 @@ In `package.json` file and section `scripts` listed handy commands to help your 
 ## ESlint
 
 For update [eslint rules](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules)
-# the-rounds-game
