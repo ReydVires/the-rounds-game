@@ -11,6 +11,8 @@
 
 <https://reydvires.itch.io/the-rounds>
 
+<img width="266" alt="Screenshot 2021-10-17 233215" src="https://user-images.githubusercontent.com/25451894/140627961-747ed69c-129e-48e5-b3fc-8a06cb6478fc.png">
+
 ## Quickstart
 
 1. Download this repo
